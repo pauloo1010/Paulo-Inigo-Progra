@@ -20,7 +20,7 @@ Data_Stats is a library that makes your life easier when you want to get data fr
 
 ## Features
 
-In this library, three different functions have been used within the created class:
+In this library, three different functions have been used within the created class which name is Stats_Obtention :
 - **selection**
 - **matches**
 - **events**
