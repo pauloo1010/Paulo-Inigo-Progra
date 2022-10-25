@@ -5,6 +5,16 @@
 
 Data_Stats is a library that makes your life easier when you want to get data from the open [source](https://github.com/statsbomb/statsbombpy), helping you to get organized data instead of pulling the data in a unique way from game to game so you can pull an entire season for example.
 
+## Code
+-> Data_Stats folder
+
+> Data_Stats.py: Code of all the library that will  be explained in the Features section
+> __ init__.py: Import of the library
+
+-> LICENSE.txt: Copyright license
+-> setup.cfg: Description file
+-> setup .py: This file contains information about the package that PyPi needs
+
 ## Features
 
 In this library, three different functions have been used within the created class:
