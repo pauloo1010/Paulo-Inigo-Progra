@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'Data-Stats',
-  packages = ['Data-Stats'],
+  name = 'Data_Stats',
+  packages = ['Data_Stats'],
   version = '0.1',
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'This library consists of obtaining data from an open database "statsbombpy".',
