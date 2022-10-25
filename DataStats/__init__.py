@@ -1,1 +1,1 @@
-from DataProcess import StatsObtention
+from DataStats.DataProcess import StatsObtention
