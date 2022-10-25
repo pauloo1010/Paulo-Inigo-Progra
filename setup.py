@@ -6,7 +6,7 @@ setup(
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'This library consists of obtaining data from an open database "statsbombpy".',
   author = 'Iñigo Ugarte & Paulo Cagigal',
-  author_email = 'inigo.ugarte@alumni.mondragon.edu & paulo.cagigal@alumni.mondragon.edu',
+  author_email = 'paulo.cagigal@alumni.mondragon.edu',
   url = 'https://github.com/pauloo1010/Paulo-Inigo-Progra',
   download_url = 'https://github.com/pauloo1010/Paulo-Inigo-Progra/archive/refs/tags/v_01.tar.gz',
   keywords = ['Dataset', 'Easy-working', 'Open'],
