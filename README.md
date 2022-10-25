@@ -10,13 +10,13 @@ Data_Stats is a library that makes your life easier when you want to get data fr
 
 > Data_Stats.py: Code of all the library that will  be explained in the Features section
 
-> __ init__.py: Import of the library
+> __init__.py: Import of the library
 
 -> LICENSE.txt: Copyright license
 
 -> setup.cfg: Description file
 
--> setup .py: This file contains information about the package that PyPi needs
+-> setup.py: This file contains information about the package that PyPi needs
 
 ## Features
 
