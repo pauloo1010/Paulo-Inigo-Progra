@@ -5,7 +5,7 @@ import warnings
 warnings.filterwarnings("ignore")
 pd.options.display.max_columns= None
 
-class Stats_Obtention:
+class StatsObtention:
     
     def __init__(self, c_name=str, c_gender=str, s_name=str):
         self.c_name= c_name

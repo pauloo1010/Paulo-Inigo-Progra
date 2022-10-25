@@ -6,9 +6,9 @@
 Data_Stats is a library that makes your life easier when you want to get data from the open [source](https://github.com/statsbomb/statsbombpy), helping you to get organized data instead of pulling the data in a unique way from game to game so you can pull an entire season for example.
 
 ## Code
--> Data_Stats folder
+-> DataStats folder
 
-> Data_Stats.py: Code of all the library that will  be explained in the Features section
+> DataProcess.py: Code of all the library that will  be explained in the Features section
 
 > __ init__.py: Import of the library
 
@@ -20,7 +20,7 @@ Data_Stats is a library that makes your life easier when you want to get data fr
 
 ## Features
 
-In this library, three different functions have been used within the created class which name is Stats_Obtention :
+In this library, three different functions have been used within the created class which name is StatsObtention :
 - **selection**
 - **matches**
 - **events**
