@@ -10,7 +10,7 @@ Data_Stats is a library that makes your life easier when you want to get data fr
 
 > Data_Stats.py: Code of all the library that will  be explained in the Features section
 
-> __init__.py: Import of the library
+> __ init__.py: Import of the library
 
 -> LICENSE.txt: Copyright license
 
