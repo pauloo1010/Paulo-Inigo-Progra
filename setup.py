@@ -13,7 +13,7 @@ setup(
   author = 'Iñigo Ugarte & Paulo Cagigal',
   author_email = 'inigo.ugarte@alumni.mondragon.edu',
   url = 'https://github.com/pauloo1010/Paulo-Inigo-Progra',
-  download_url = 'https://github.com/pauloo1010/Paulo-Inigo-Progra/archive/refs/tags/v_02.tar.gz',
+  download_url = 'https://github.com/pauloo1010/Paulo-Inigo-Progra/archive/refs/tags/v_03.tar.gz',
   keywords = ['Dataset', 'Easy-working', 'Open'],
   long_description=long_description,
   long_description_content_type='text/markdown',
