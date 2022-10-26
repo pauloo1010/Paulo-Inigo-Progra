@@ -65,6 +65,7 @@ a.events()
 ```
 
 ![image](https://raw.githubusercontent.com/pauloo1010/Ejercicio_github/master/porcenta.jpeg)
+
 ![image](https://raw.githubusercontent.com/pauloo1010/Ejercicio_github/master/creating%20table.jpeg)
 
 ![image](https://raw.githubusercontent.com/pauloo1010/Ejercicio_github/master/process.jpeg)
