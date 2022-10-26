@@ -1,4 +1,7 @@
 from distutils.core import setup
+this_directory = Path(_file_).parent
+long_description = (this_directory / "README.md").read_text()
+
 setup(
   name = 'DataStats',
   packages = ['DataStats'],
@@ -10,6 +13,8 @@ setup(
   url = 'https://github.com/pauloo1010/Paulo-Inigo-Progra',
   download_url = 'https://github.com/pauloo1010/Paulo-Inigo-Progra/archive/refs/tags/v_02.tar.gz',
   keywords = ['Dataset', 'Easy-working', 'Open'],
+  long_description=long_description,
+  long_description_content_type='text/markdown',
   install_requires=[
           'pandas',
           'statsbombpy',
