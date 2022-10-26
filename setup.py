@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 setup(
   name = 'DataStats',
   packages = ['DataStats'],
-  version = '0.2',
+  version = '0.3',
   license='MIT',   
   description = 'This library consists of obtaining data from an open database "statsbombpy".',
   author = 'Iñigo Ugarte & Paulo Cagigal',
